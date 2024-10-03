@@ -34,7 +34,11 @@
   },
   "name":"purp crash-out",
   "resources":[
+    {"id":{"name":"spr_ground","path":"objects/spr_ground/spr_ground.yy",},},
+    {"id":{"name":"spr_player","path":"objects/spr_player/spr_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
