@@ -16,5 +16,12 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_button_help","order":3,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"obj_button_multi","order":5,"path":"objects/obj_button_multi/obj_button_multi.yy",},
+    {"name":"obj_button_play","order":2,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_controls","order":6,"path":"objects/obj_controls/obj_controls.yy",},
+    {"name":"ObjButton_parent","order":1,"path":"objects/ObjButton_parent/ObjButton_parent.yy",},
+  ],
 }
