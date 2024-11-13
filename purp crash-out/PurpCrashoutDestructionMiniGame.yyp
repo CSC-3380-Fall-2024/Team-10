@@ -210,6 +210,7 @@
     {"id":{"name":"obj_truck","path":"objects/obj_truck/obj_truck.yy",},},
     {"id":{"name":"obj_tyre_span","path":"objects/obj_tyre_span/obj_tyre_span.yy",},},
     {"id":{"name":"obj_wheel","path":"objects/obj_wheel/obj_wheel.yy",},},
+    {"id":{"name":"Object91","path":"objects/Object91/Object91.yy",},},
     {"id":{"name":"Circuit1A","path":"paths/Circuit1A/Circuit1A.yy",},},
     {"id":{"name":"Circuit1B","path":"paths/Circuit1B/Circuit1B.yy",},},
     {"id":{"name":"Circuit1C","path":"paths/Circuit1C/Circuit1C.yy",},},

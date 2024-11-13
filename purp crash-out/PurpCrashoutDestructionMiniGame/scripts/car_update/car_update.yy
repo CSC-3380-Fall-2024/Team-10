@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"car_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"car_update",
+  "parent":{
+    "name":"Car",
+    "path":"folders/Scripts/Car.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

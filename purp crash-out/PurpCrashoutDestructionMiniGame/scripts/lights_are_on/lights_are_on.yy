@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"lights_are_on",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lights_are_on",
+  "parent":{
+    "name":"Headlights",
+    "path":"folders/Scripts/Headlights.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
