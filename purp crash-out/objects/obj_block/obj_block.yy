@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_block",
-    "path":"sprites/spr_block/spr_block.yy",
+    "name":"r_road_128",
+    "path":"sprites/r_road_128/r_road_128.yy",
   },
   "spriteMaskId":null,
   "visible":true,
