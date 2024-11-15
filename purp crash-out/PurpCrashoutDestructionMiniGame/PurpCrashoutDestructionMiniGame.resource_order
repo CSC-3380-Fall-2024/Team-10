@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_Building_one","order":1,"path":"objects/Obj_Building_one/Obj_Building_one.yy",},
+    {"name":"Sprite85","order":1,"path":"sprites/Sprite85/Sprite85.yy",},
+  ],
 }
