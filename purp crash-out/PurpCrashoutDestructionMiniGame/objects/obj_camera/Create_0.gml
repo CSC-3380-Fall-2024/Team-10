@@ -5,14 +5,3 @@ player = obj_parent_player  //this is the parent object of obj_sportscar, obj_co
 /// Camera Target
 target = player //Camera target, (What camera will be following)
 
-
-/// Screen Shake Amount
-min_amount_ = 1; // Min Screen Shake
-max_amount_ = 5; // Max Screen Shake
-
-/// Screen Shake On or Off
-screen_shake_ = false; // Screen Shake On or Off?
-
-//timer for screen_shake
-shake_timer = 0
-
