@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Warped Space Shooter - GMS2",
+  "%Name":"SpaceGame1",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -36,9 +36,9 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2022.2.0.614",
+    "IDEVersion":"2024.8.1.171",
   },
-  "name":"Warped Space Shooter - GMS2",
+  "name":"SpaceGame1",
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},},
