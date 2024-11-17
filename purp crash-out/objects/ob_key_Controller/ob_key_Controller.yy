@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controls",
+  "%Name":"ob_key_Controller",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controls",
+  "name":"ob_key_Controller",
   "overriddenProperties":[],
   "parent":{
-    "name":"main menu objects",
-    "path":"folders/Objects/main menu objects.yy",
+    "name":"controls menu",
+    "path":"folders/Objects/main menu objects/options menu/controls menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite2",
+    "path":"sprites/Sprite2/Sprite2.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

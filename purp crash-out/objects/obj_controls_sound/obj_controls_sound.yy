@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_play",
+  "%Name":"obj_controls_sound",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_play",
+  "name":"obj_controls_sound",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Sound",},
   ],
   "parent":{
-    "name":"main menu objects",
-    "path":"folders/Objects/main menu objects.yy",
+    "name":"options menu",
+    "path":"folders/Objects/main menu objects/options menu.yy",
   },
   "parentObjectId":{
     "name":"ObjButton_parent",

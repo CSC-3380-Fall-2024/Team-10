@@ -1,17 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_play",
+  "%Name":"obj_key_up",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_play",
+  "name":"obj_key_up",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Back",},
   ],
   "parent":{
-    "name":"main menu objects",
-    "path":"folders/Objects/main menu objects.yy",
+    "name":"controls menu",
+    "path":"folders/Objects/main menu objects/options menu/controls menu.yy",
   },
   "parentObjectId":{
     "name":"ObjButton_parent",
