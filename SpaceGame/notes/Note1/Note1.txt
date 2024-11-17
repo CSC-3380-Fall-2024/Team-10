@@ -1,5 +1,0 @@
-Sound Effects
-> Sprites - https://ansimuz.itch.io/warped-space-shooter
-> Laser - https://opengameart.org/content/retro-shooter-sound-effects
-> Hit - https://opengameart.org/content/collision-nutfall-yo-frankie
-> Fireball - https://opengameart.org/content/fireball-3
