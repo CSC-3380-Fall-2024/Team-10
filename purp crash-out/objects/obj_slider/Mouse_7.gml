@@ -4,9 +4,9 @@ is_being_dragged = false;
 
 switch(setting) {
 	case "music":
-		global.musicVolume = global.ammount_current;
+		global.musicVolume = ammount_current;
 		
-		audio_sound_gain(global.musicVolume, global.amount_current / 100, 0);
+		audio_sound_gain(global.musicVolume, amount_current / 100, 0);
 	break;
 	case "sound":
 	

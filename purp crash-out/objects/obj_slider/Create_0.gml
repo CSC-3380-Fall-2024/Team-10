@@ -8,10 +8,10 @@ is_being_dragged = false;
 
 switch(setting){
 	case "music":
-		global.amount_current = global.musicVolume;
+		amount_current = global.musicVolume;
 	break;
 	case "sound":
-		global.amount_current = global.EffectsVolume;
+		amount_current = global.EffectsVolume;
 	break;
 }
 

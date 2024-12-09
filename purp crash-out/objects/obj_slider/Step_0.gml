@@ -7,9 +7,9 @@ if(is_being_dragged == true) {
 	var amount = xx/ sprite_width;
 	
 	amount = clamp(amount, 0, 1);
-	global.amount_current = amount * 100;
+	amount_current = amount * 100;
 	}
 	else{
-		global.amount_current = 0;
+		amount_current = 0;
 	}
 }

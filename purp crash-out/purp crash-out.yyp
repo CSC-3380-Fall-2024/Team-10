@@ -59,6 +59,7 @@
     {"id":{"name":"obj_music_manager","path":"objects/obj_music_manager/obj_music_manager.yy",},},
     {"id":{"name":"obj_slider","path":"objects/obj_slider/obj_slider.yy",},},
     {"id":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},},
+    {"id":{"name":"Object17","path":"objects/Object17/Object17.yy",},},
     {"id":{"name":"init","path":"rooms/init/init.yy",},},
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
