@@ -33,5 +33,12 @@ if (right && speed != 0) {
 x += lengthdir_x(speed, direction);
 y += lengthdir_y(speed, direction);
 
+if (x < 0 || x > room_width) {
+    speed = -speed; // Reverse speed horizontally
+}
+if (y < 0 || y > room_height) {
+    speed = -speed; // Reverse speed vertically
+}
+
 // Rotate sprite to match direction
 image_angle = direction;

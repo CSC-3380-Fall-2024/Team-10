@@ -9,4 +9,4 @@ var spawn_y = random_range(50, room_height - 50);
 instance_create_layer(spawn_x, spawn_y, "Instances", Obj_Building);
 
 // Schedules spawn and the amount of time it takes to respawn post destruction. 
-Obj_GameController.alarm[0] = room_speed * 1;
+Obj_GameController.alarm[0] = room_speed * 0.2;
