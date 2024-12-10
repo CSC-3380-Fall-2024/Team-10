@@ -23,5 +23,7 @@
     {"name":"Obj_timer","order":2,"path":"objects/Obj_timer/Obj_timer.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Buildin2","order":1,"path":"sprites/Buildin2/Buildin2.yy",},
+    {"name":"SeaMap","order":3,"path":"sprites/SeaMap/SeaMap.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }

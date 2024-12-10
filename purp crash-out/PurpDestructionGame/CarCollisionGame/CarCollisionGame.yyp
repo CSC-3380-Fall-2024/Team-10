@@ -43,6 +43,8 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Buildin2","path":"sprites/Buildin2/Buildin2.yy",},},
     {"id":{"name":"FinalPurpCar","path":"sprites/FinalPurpCar/FinalPurpCar.yy",},},
+    {"id":{"name":"SeaMap","path":"sprites/SeaMap/SeaMap.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
