@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controls",
+  "%Name":"obj_music_knob",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controls",
+  "name":"obj_music_knob",
   "overriddenProperties":[],
   "parent":{
-    "name":"control menu",
-    "path":"folders/Objects/main menu objects/options menu/control menu.yy",
+    "name":"sound menu",
+    "path":"folders/Objects/main menu objects/options menu/sound menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_knob",
+    "path":"sprites/spr_knob/spr_knob.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

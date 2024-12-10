@@ -10,7 +10,6 @@
     {"name":"inst_20451225","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
     {"name":"inst_4984752D","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
     {"name":"inst_145D0C27","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
-    {"name":"inst_175CEB29","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -20,14 +19,13 @@
         {"$GMRInstance":"v1","%Name":"inst_20451225","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_20451225","objectId":{"name":"obj_button_multi","path":"objects/obj_button_multi/obj_button_multi.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.5,"x":160.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_4984752D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4984752D","objectId":{"name":"obj_button_help","path":"objects/obj_button_help/obj_button_help.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.5,"x":160.0,"y":352.0,},
         {"$GMRInstance":"v1","%Name":"inst_145D0C27","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_145D0C27","objectId":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.5,"x":1216.0,"y":704.0,},
-        {"$GMRInstance":"v1","%Name":"inst_175CEB29","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_175CEB29","objectId":{"name":"obj_music_manager","path":"objects/obj_music_manager/obj_music_manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"rm_MainMenu",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"main menu rooms",
+    "path":"folders/Rooms/main menu rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
