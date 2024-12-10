@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_help",
+  "%Name":"obj_button_down",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_help",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Options",},
-  ],
+  "name":"obj_button_down",
+  "overriddenProperties":[],
   "parent":{
-    "name":"screen options",
-    "path":"folders/Objects/main menu objects/screen options.yy",
+    "name":"control menu",
+    "path":"folders/Objects/main menu objects/options menu/control menu.yy",
   },
   "parentObjectId":{
     "name":"ObjButton_parent",

@@ -22,8 +22,8 @@
   ],
   "name":"rm_Options",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"main menu rooms",
+    "path":"folders/Rooms/main menu rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

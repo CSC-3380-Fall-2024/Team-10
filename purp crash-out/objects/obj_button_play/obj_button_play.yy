@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ObjButton_parent","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/ObjButton_parent/ObjButton_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
   ],
   "parent":{
-    "name":"main menu objects",
-    "path":"folders/Objects/main menu objects.yy",
+    "name":"screen options",
+    "path":"folders/Objects/main menu objects/screen options.yy",
   },
   "parentObjectId":{
     "name":"ObjButton_parent",
