@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"EnemyVehicles","path":"objects/EnemyVehicles/EnemyVehicles.yy",},},
     {"id":{"name":"Obj_Building","path":"objects/Obj_Building/Obj_Building.yy",},},
+    {"id":{"name":"Obj_Building2","path":"objects/Obj_Building2/Obj_Building2.yy",},},
     {"id":{"name":"Obj_GameController","path":"objects/Obj_GameController/Obj_GameController.yy",},},
     {"id":{"name":"Obj_score","path":"objects/Obj_score/Obj_score.yy",},},
     {"id":{"name":"Obj_timer","path":"objects/Obj_timer/Obj_timer.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"FinalPurpCar","path":"sprites/FinalPurpCar/FinalPurpCar.yy",},},
     {"id":{"name":"SeaMap","path":"sprites/SeaMap/SeaMap.yy",},},
     {"id":{"name":"Sprite_0001_Recovered1","path":"sprites/Sprite_0001_Recovered1/Sprite_0001_Recovered1.yy",},},
+    {"id":{"name":"Sprite_0001_Recovered2","path":"sprites/Sprite_0001_Recovered2/Sprite_0001_Recovered2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
   ],
