@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"SpacePurp - GMS2 - Source",
+  "%Name":"SpacePurp(1)",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -38,7 +38,7 @@
   "MetaData":{
     "IDEVersion":"2024.8.1.171",
   },
-  "name":"SpacePurp - GMS2 - Source",
+  "name":"SpacePurp(1)",
   "resources":[
     {"id":{"name":"obj_Boss_Bullet","path":"objects/obj_Boss_Bullet/obj_Boss_Bullet.yy",},},
     {"id":{"name":"obj_Bullet","path":"objects/obj_Bullet/obj_Bullet.yy",},},
