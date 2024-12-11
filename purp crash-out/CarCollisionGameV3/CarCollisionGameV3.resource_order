@@ -23,7 +23,6 @@
     {"name":"Obj_score","order":3,"path":"objects/Obj_score/Obj_score.yy",},
     {"name":"Obj_timer","order":2,"path":"objects/Obj_timer/Obj_timer.yy",},
     {"name":"EnemyVehicle","order":2,"path":"sprites/EnemyVehicle/EnemyVehicle.yy",},
-    {"name":"SeaMap","order":3,"path":"sprites/SeaMap/SeaMap.yy",},
     {"name":"Sprite_0001_Recovered1","order":3,"path":"sprites/Sprite_0001_Recovered1/Sprite_0001_Recovered1.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
