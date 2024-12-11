@@ -28,3 +28,11 @@ Once the game is launched, use the arrow keys to control your vehicle. The objec
 
 Be sure to avoid the enemy vehicles that will chase after you. If you're hit ten times, you will lose the game.
 
+**Spack Rocks
+
+To start the game, double-click the "Start Game" button. You will begin as a spaceship, and your objective is to shoot the asteroids coming toward you. Larger asteroids are worth more points than smaller ones.
+
+As the game progresses, the strategy and the spawn rate of the asteroids become increasingly challenging.
+
+Be careful! If an asteroid hits your spaceship, the game is over.
+
