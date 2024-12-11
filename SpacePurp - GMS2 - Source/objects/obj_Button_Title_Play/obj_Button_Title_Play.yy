@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Title_Button_Play",
-    "path":"sprites/spr_Title_Button_Play/spr_Title_Button_Play.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
