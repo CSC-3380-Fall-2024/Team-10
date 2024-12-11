@@ -6,9 +6,9 @@
     {"name":"Notes","order":11,"path":"folders/Notes.yy",},
     {"name":"Objects","order":7,"path":"folders/Objects.yy",},
     {"name":"main menu objects","order":7,"path":"folders/Objects/main menu objects.yy",},
-    {"name":"screen options","order":1,"path":"folders/Objects/main menu objects/screen options.yy",},
     {"name":"control menu","order":5,"path":"folders/Objects/main menu objects/options menu/control menu.yy",},
     {"name":"sound menu","order":4,"path":"folders/Objects/main menu objects/options menu/sound menu.yy",},
+    {"name":"screen options","order":1,"path":"folders/Objects/main menu objects/screen options.yy",},
     {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":2,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":8,"path":"folders/Rooms.yy",},
@@ -24,7 +24,6 @@
   "ResourceOrderSettings":[
     {"name":"obj_button_down","order":2,"path":"objects/obj_button_down/obj_button_down.yy",},
     {"name":"obj_button_left","order":3,"path":"objects/obj_button_left/obj_button_left.yy",},
-    {"name":"obj_button_multi","order":1,"path":"objects/obj_button_multi/obj_button_multi.yy",},
     {"name":"obj_button_play","order":2,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_button_quit","order":3,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_button_right","order":4,"path":"objects/obj_button_right/obj_button_right.yy",},
