@@ -10,8 +10,8 @@
   "name":"obj_Asteroid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

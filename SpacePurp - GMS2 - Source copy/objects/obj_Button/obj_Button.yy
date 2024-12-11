@@ -9,8 +9,8 @@
   "name":"obj_Button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Title",
-    "path":"folders/Objects/Title.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

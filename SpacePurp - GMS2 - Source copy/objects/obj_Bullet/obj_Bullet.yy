@@ -11,8 +11,8 @@
   "name":"obj_Bullet",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Objects/Player.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

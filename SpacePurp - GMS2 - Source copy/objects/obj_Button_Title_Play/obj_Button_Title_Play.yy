@@ -8,8 +8,8 @@
   "name":"obj_Button_Title_Play",
   "overriddenProperties":[],
   "parent":{
-    "name":"Title",
-    "path":"folders/Objects/Title.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":{
     "name":"obj_Button",

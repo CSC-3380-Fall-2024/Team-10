@@ -8,8 +8,8 @@
   "name":"obj_Particle_Starfield",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particles",
-    "path":"folders/Objects/Particles.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

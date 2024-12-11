@@ -11,8 +11,8 @@
   "name":"obj_Particles",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particle System",
-    "path":"folders/Objects/Plugins/Particle System.yy",
+    "name":"SpacePurp",
+    "path":"SpacePurp.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
