@@ -28,11 +28,8 @@ Once the game is launched, use the arrow keys to control your vehicle. The objec
 
 Be sure to avoid the enemy vehicles that will chase after you. If you're hit ten times, you will lose the game.
 
-**Spack Rocks
+**Spack Rocksz
 
-To start the game, double-click the "Start Game" button. You will begin as a spaceship, and your objective is to shoot the asteroids coming toward you. Larger asteroids are worth more points than smaller ones.
+Overview: To start the game, double-click the "Start Game" button. You will take control of a spaceship, and your objective is to shoot the asteroids coming toward you. Larger asteroids are worth more points than smaller ones, making them valuable targets. As the game progresses, the spawn rate of asteroids increases, and they become more challenging to avoid and destroy, requiring quick reflexes and strategic thinking.
 
-As the game progresses, the strategy and the spawn rate of the asteroids become increasingly challenging.
-
-Be careful! If an asteroid hits your spaceship, the game is over.
-
+Keep an eye out for special power-ups that appear as glowing icons during gameplay. These can give you a significant advantage. Triple Shot: Allows your spaceship to fire three lasers at once, covering a wider area and making it easier to destroy multiple asteroids simultaneously. Faster Shooting: Boosts your spaceship's firing rate, enabling you to take down asteroids more quickly and efficiently. The game becomes more difficult over time, with faster-moving asteroids and unpredictable spawn patterns. Strategically using your power-ups at the right moments is essential for survival as the challenges intensify. Game Over Conditions: Be careful! If an asteroid collides with your spaceship, the game ends immediately. Your final score will be displayed, and you can try again to beat your personal best.
