@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Init",
+  "%Name":"obj_Init_space",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Init",
+  "name":"obj_Init_space",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
