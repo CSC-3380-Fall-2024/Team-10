@@ -19,3 +19,12 @@ To launch the game double click on the SpacePurp - GMS2 - Source copy file and t
 A main menu pops up and to play, press "Play Game".
 The objective of this mini game is to destroy as many asteroids to get the highest score and at the end there is a boss.
 The contols are 'w' and 's' for up and down movement and 'space' to fire bullets.
+
+CarCollisionGameV3 Mini-Game
+
+To launch the game, double-click on the CarCollisionGame file, then select CarCollisionGame.yyp to open it. All necessary files are included.
+
+Once the game is launched, use the arrow keys to control your vehicle. The objective of this mini-game is to collide your vehicle with the building sprites located on the beach to earn the maximum number of points. Each building is worth ten points.
+
+Be sure to avoid the enemy vehicles that will chase after you. If you're hit ten times, you will lose the game.
+
