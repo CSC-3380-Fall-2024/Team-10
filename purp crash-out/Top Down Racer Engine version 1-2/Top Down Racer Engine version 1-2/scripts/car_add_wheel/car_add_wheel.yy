@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"car_add_wheel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"car_add_wheel",
+  "parent":{
+    "name":"Car",
+    "path":"folders/Scripts/Car.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
