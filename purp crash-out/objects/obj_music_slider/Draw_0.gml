@@ -1,11 +1,21 @@
-/// @description Insert description here
-// You can write your code in this editor
+/**
+ * Draws the volume control slider with the current volume percentage and a label for the music setting.
+ * 
+ * @param global.music_volume (float) The current music volume, ranging from 0 to 1, used to calculate the volume percentage.
+ * @param x (integer) The x-coordinate of the volume slider.
+ * @param y (integer) The y-coordinate of the volume slider.
+ * @param sprite_width (integer) The width of the sprite used for the volume slider.
+ * @param sprite_height (integer) The height of the sprite used for the volume slider.
+ * @param volume_percentage (string) The string representation of the current volume percentage.
+ * @param fnt_menu (font) The font used to display the "Music" label.
+ */
 draw_self();
-//draws the number to know the volume
-var volume_percentage = string(round(global.music_volume *100));
-draw_text(x + sprite_width/2 + 135, y - sprite_height/2 - 8, volume_percentage);
 
-//draw music so user knows what they are changing
+// Draws the volume percentage to indicate the current volume level
+var volume_percentage = string(round(global.music_volume * 100));
+draw_text(x + sprite_width / 2 + 135, y - sprite_height / 2 - 8, volume_percentage);
+
+// Draw the music label to indicate what the user is changing
 draw_set_font(fnt_menu);
 draw_set_halign(fa_center);
 draw_set_color(c_white);
