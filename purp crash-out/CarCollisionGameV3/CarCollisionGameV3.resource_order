@@ -25,7 +25,6 @@
     {"name":"EnemyVehicle","order":2,"path":"sprites/EnemyVehicle/EnemyVehicle.yy",},
     {"name":"SeaMap","order":3,"path":"sprites/SeaMap/SeaMap.yy",},
     {"name":"Sprite_0001_Recovered1","order":3,"path":"sprites/Sprite_0001_Recovered1/Sprite_0001_Recovered1.yy",},
-    {"name":"Sprite_0001_Recovered2","order":4,"path":"sprites/Sprite_0001_Recovered2/Sprite_0001_Recovered2.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }
