@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Title",
-    "path":"folders/Objects/Title.yy",
+    "path":"folders/Objects/space game/Title.yy",
   },
   "parentObjectId":null,
   "persistent":false,

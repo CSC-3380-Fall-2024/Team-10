@@ -8,8 +8,8 @@
   "name":"obj_UI_Score",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"space game",
+    "path":"folders/Objects/space game.yy",
   },
   "parentObjectId":null,
   "persistent":false,

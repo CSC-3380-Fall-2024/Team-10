@@ -10,8 +10,8 @@
   "name":"obj_Transition_Fade_In",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"space game",
+    "path":"folders/Objects/space game.yy",
   },
   "parentObjectId":null,
   "persistent":false,

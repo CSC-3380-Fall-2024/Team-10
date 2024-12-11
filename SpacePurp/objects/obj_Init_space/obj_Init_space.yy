@@ -8,8 +8,8 @@
   "name":"obj_Init_space",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"space game",
+    "path":"folders/Objects/space game.yy",
   },
   "parentObjectId":null,
   "persistent":false,

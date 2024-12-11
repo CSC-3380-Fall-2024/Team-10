@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Particle System",
-    "path":"folders/Objects/Plugins/Particle System.yy",
+    "path":"folders/Objects/space game/Plugins/Particle System.yy",
   },
   "parentObjectId":null,
   "persistent":false,
