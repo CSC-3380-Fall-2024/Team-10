@@ -15,7 +15,7 @@ ever one you want to look at. double click it then you will be taken to the work
 once done close out of game maker and go back to the start of the files
 
 **Space Purp Mini-Game
-To launch the game double click on the SpacePurp - GMS2 - Source copy file and then double click on the SpacePurp Copy file. The files with the @params are included. Then double click the 'SpacePurp.yyp' file. This should launch the game. 
+To launch the game double click on the SpacePurp-GMS2-Source-copy file and then double click on the SpacePurp-Copy file. The files with the @params are included. Then double click the 'SpacePurp.yyp' file. This should launch the game. 
 A main menu pops up and to play, press "Play Game".
 The objective of this mini game is to destroy as many asteroids to get the highest score and at the end there is a boss.
 The contols are 'w' and 's' for up and down movement and 'space' to fire bullets.
