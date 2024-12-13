@@ -1,15 +1,11 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-// Inherit the parent event
+/**
+ * Inherits the parent event and navigates to the options room.
+ * 
+ * @param rm_Options (room) The room to go to, in this case, the options room.
+ */
 event_inherited();
 
-if (instance_exists(obj_controls))
-{
-	instance_destroy(obj_controls);
-}
+room_goto(rm_Options);
 
-else
-{
-	instance_create_layer(room_width / 2, room_height -100, "Instances", obj_controls)
-}
+
+
