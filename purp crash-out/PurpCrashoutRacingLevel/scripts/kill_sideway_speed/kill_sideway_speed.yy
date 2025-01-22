@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"kill_sideway_speed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"kill_sideway_speed",
+  "parent":{
+    "name":"Car",
+    "path":"folders/Scripts/Car.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
