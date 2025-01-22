@@ -1,0 +1,11 @@
+Controls For Platforming 
+
+
+Arrow Keys left / right - Horizontal Movement 
+Up Arrow Key - Jump
+Space Bar - Attack 
+Escape - exit game 
+"R" Key - restart entire game 
+"L" Key - restart from last checkpoint
+Win by reaching the end to find the sandwich 
+Momentum builds as you run
